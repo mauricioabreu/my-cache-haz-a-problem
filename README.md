@@ -1,6 +1,6 @@
 # My cache haz a problem
 
-Esse repositório foi criado para fins didáticos e de demonstração das ideias apresentados no seguinte texto: <link_aqui>
+Esse repositório foi criado para fins didáticos e de demonstração das ideias apresentados no seguinte texto: https://dev.to/mauricioabreu/quem-mexeu-no-meu-cache-5ph
 
 ## Testando
 
